@@ -6,6 +6,7 @@
 3rd line  
 
 *bold1*
+
 _bold2_
 
 multi-lined code
